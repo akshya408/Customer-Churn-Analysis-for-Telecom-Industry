@@ -58,6 +58,7 @@ Let users compare models (e.g., RandomForest, LogisticRegression, XGBoost) with 
 Explainability Tools:
 
 Integrate SHAP or LIME plots to explain individual predictions.
+![Customer Churn Analysis for Telecom Industry model](https://github.com/user-attachments/assets/6455d86b-df1e-4c74-a2ac-93992dab7c8f)
 
 code link :
  -<a href = "https://github.com/akshya408/Customer-Churn-Analysis-for-Telecom-Industry/blob/main/Customer%20Churn%20Analysis%20for%20Telecom%20Industry%20model.py">code link</a>
